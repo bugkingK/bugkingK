@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbugkingK&count_bg=%23FFBCB8&title_bg=%23C2C2C2&icon=airbnb.svg&icon_color=%234F4F4F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **bugkingK/bugkingK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
